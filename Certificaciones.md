@@ -29,5 +29,4 @@ permalink: /Certificaciones/
 ## Minicurso de Análisis y Econometría Espacial
 ![MAEE](Certificados%20(img)/Econometría%20Espacial.png)
 
-# Prueba
-![Prueba](Econometría%20Espacial)
+
