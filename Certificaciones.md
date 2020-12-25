@@ -23,7 +23,7 @@ permalink: /Certificaciones/
 
 
 ## Power BI Master Program
-[PowerBI](Certificado PowerBI.html)
+[PowerBI](Certificado-PowerBI.pdf)
 
 ## Maratón IBM Behind the Code 2020
 
