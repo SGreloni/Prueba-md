@@ -1,4 +1,4 @@
 ## Hola
 
 ### Certificiaciones
-[Certificaciones](Certificaciones)
+[Certificaciones](https://sgreloni.github.io/Prueba-md/Certificaciones)
