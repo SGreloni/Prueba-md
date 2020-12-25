@@ -24,7 +24,7 @@ Promedio 8,22
 
 ## Contacto
 
-Email: Santiagogreloni@gmail.com
+E-mail: Santiagogreloni@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/santiago-greloni-4892a9196) 
 
