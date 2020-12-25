@@ -11,6 +11,9 @@ Promedio 8,7 *(11/33 materias)*
 -**Colegio Nacional de Buenos Aires** *(03/2014 - 03/2018)*  
 Promedio 8,17 
 
+# Proyectos
+
+## Proyecto 1
 
 ## Curriculum Vitae
 
