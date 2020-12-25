@@ -1,4 +1,4 @@
 ## Hola
 
 ### Certificiaciones
-[Certificaciones](Pages/Certificaciones)
+[Certificaciones](Certificaciones)
