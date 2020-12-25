@@ -14,7 +14,7 @@ permalink: /Certificaciones/
 ![HT](Certificados%20(img)/Hyperparameter%20Tuning.png)
 
 ### Structuring Machine Learning Projects
-![SMLP](../Certificados%20(img)/Structuring%20Machine%20Learning%20Projects.png)
+![SMLP2](../Certificados%20(img)/Structuring%20Machine%20Learning%20Projects.png)
 
 ### Convolutional Neural Networks
 ![CNN](Certificados%20(img)/Convolutional%20Neural%20Networks.png)
