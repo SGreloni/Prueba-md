@@ -29,6 +29,3 @@ permalink: /Certificaciones/
 ## Minicurso de Análisis y Econometría Espacial
 ![MAEE](Certificados%20(img)/Econometría%20Espacial.png)
 
-
-#Prueba
-![MAEE](https://github.com/SGreloni/Portafolio/tree/gh-pages/Certificados%20(img)/PowerBI)
