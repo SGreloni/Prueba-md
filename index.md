@@ -14,4 +14,4 @@ Email: Santiagogreloni@gmail.com
 
 
 ### Certificiaciones
-[Certificaciones](https://sgreloni.github.io/Portafolio/Certificaciones)
+[Certificaciones](Certificaciones)
