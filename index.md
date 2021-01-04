@@ -27,11 +27,11 @@ Promedio 8,22
 Realicé un análisis sobre datos de 20000 propiedades listadas en Airbnb y entrené un modelo de regresión que predice el precio por noche al que debería estar ofrecida la propiedad según características como su capacidad, cantidad de baños, número de dormitorios, etcétera.
 
 Herramientas utilizadas:
--Pandas (limpieza de datos)
--Matplotlib y Seaborn (visualización de datos)
--Scikit-Learn (*feature engineering* y ajuste de hiperparámetros)
--XGBoost (*Machine Learning*)
--Markdown y LaTex (legiblididad y publicación de textos digitales)
+* Pandas (limpieza de datos)
+* Matplotlib y Seaborn (visualización de datos)
+* Scikit-Learn (*feature engineering* y ajuste de hiperparámetros)
+* XGBoost (*Machine Learning*)
+* Markdown y LaTex (legiblididad y publicación de textos digitales)
 
 ![](https://github.com/SGreloni/Portafolio/blob/gh-pages/Proyectos%20(img)/Mapa%20airbnb.png)
 
