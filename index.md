@@ -37,7 +37,7 @@ Herramientas utilizadas:
 
 # [Proyecto 1 Bis:  Aplicación Web para prediccion de precios de Airbnb](https://shielded-journey-46084.herokuapp.com/)
 
-Utilizando el modelo de intekigencia artifical entrenado en **Proyecto 1: Análisis y predicción de precios en Airbnb** construí una aplicación web con una interfaz estética e intuitiva para tasar la estadía por noche según el input obtenido del usuario.
+Utilizando el modelo de inteligencia artifical entrenado en **Proyecto 1: Análisis y predicción de precios en Airbnb** construí una aplicación web con una interfaz estética e intuitiva para tasar la estadía por noche según el input obtenido del usuario.
 
 Herramientas utilizadas:
 * Streamlit (generación de aplicaciónes Web)
