@@ -4,6 +4,9 @@ title: "Certificaciones"
 permalink: /Certificaciones/
 ---
 
+## Managing Big Data with MySQL
+![SQL](../Certificados%20(img)/MySQL.png)
+
 ## Deep Learning Specialization Program de Deeplearning.ai
 ![DL](../Certificados%20(img)/Deep%20Learning%20Specialization.png)
 
