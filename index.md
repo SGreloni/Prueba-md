@@ -43,7 +43,7 @@ Herramientas utilizadas:
 * Streamlit (generación de aplicaciónes Web)
 * Geopy (servicios de geocodificación)
 * Heroku (despliegue en la nube)
-* Git (control de versiones
+* Git (control de versiones)
 
 ## Contacto
 
