@@ -33,7 +33,7 @@ Herramientas utilizadas:
 * XGBoost (*Machine Learning*: regresión)
 * Markdown y LaTex (legiblididad y publicación de textos digitales)
 
-![Disposición de propiedades de Airbnb en CABA](https://github.com/SGreloni/Portafolio/blob/gh-pages/Proyectos%20(img)/Mapa%20airbnb.png)
+![Disposición de propiedades de Airbnb en CABA](Proyectos%20(img)/Mapa%20airbnb.png)
 
 ### [Proyecto 1 Bis:  Aplicación Web para prediccion de precios de Airbnb](https://shielded-journey-46084.herokuapp.com/)
 
