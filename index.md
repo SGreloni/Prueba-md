@@ -59,7 +59,7 @@ Herramientas utilizadas:
 * Heroku (despliegue en la nube)
 * Git (control de versiones)
 
-![Animación 3D](https://github.com/SGreloni/Portafolio/blob/gh-pages/Proyectos%20(img)/rotation.gif)
+![Animación 3D](Proyectos%20(img)/rotation.gif)
 
 ## Contacto
 
