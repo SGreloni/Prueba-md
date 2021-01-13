@@ -22,7 +22,7 @@ Promedio 8,22
 
 ## Proyectos
 
-# [Proyecto 1:  Análisis y predicción de precios en Airbnb](https://github.com/SGreloni/prediccion-precios-Airbnb/blob/master/Predictor%20de%20precios%20de%20Airbnb%20.ipynb)
+### [Proyecto 1:  Análisis y predicción de precios en Airbnb](https://github.com/SGreloni/prediccion-precios-Airbnb/blob/master/Predictor%20de%20precios%20de%20Airbnb%20.ipynb)
 
 Realicé un análisis sobre datos de 20000 propiedades listadas en Airbnb y entrené un modelo de regresión que predice el precio por noche al que debería estar ofrecida la propiedad según características como su capacidad, cantidad de baños, número de dormitorios, etcétera.
 
@@ -35,7 +35,7 @@ Herramientas utilizadas:
 
 ![](https://github.com/SGreloni/Portafolio/blob/gh-pages/Proyectos%20(img)/Mapa%20airbnb.png)
 
-# [Proyecto 1 Bis:  Aplicación Web para prediccion de precios de Airbnb](https://shielded-journey-46084.herokuapp.com/)
+### [Proyecto 1 Bis:  Aplicación Web para prediccion de precios de Airbnb](https://shielded-journey-46084.herokuapp.com/)
 
 Utilizando el modelo de inteligencia artifical entrenado en **Proyecto 1: Análisis y predicción de precios en Airbnb** construí una aplicación web con una interfaz estética e intuitiva para tasar la estadía por noche según el input obtenido del usuario.
 
@@ -45,7 +45,7 @@ Herramientas utilizadas:
 * Heroku (despliegue en la nube)
 * Git (control de versiones)
 
-# [Proyecto 2: SegArt](https://peaceful-beyond-41898.herokuapp.com/)
+### [Proyecto 2: SegArt](https://peaceful-beyond-41898.herokuapp.com/)
 
 Utilicé una aplicación no convencional del algoritmo de aprendizaje no supervisado *KMeans* como segmentador de imagen, aprovechando para explicar didácticamente como funciona y permitiendo al lector jugar con el hiperparámetro K (la cantidad de *clusters* que busca el algoritmo). Adicionalmente agregué la opción de poder modificar los colores de cada segmento o cluster con el objetivo de crear composiciones artísticas fácilmente. Para más información acerca del proceso de creación visitar el [repositorio en Github](https://github.com/SGreloni/segart) y el [Jupyter Notebook](https://github.com/SGreloni/segart/blob/master/SegArt.ipynb).
 
