@@ -30,7 +30,7 @@ Herramientas utilizadas:
 * Pandas (limpieza de datos)
 * Matplotlib y Seaborn (visualización de datos)
 * Scikit-Learn (*feature engineering* y ajuste de hiperparámetros)
-* XGBoost (*Machine Learning*)
+* XGBoost (*Machine Learning*: regresión)
 * Markdown y LaTex (legiblididad y publicación de textos digitales)
 
 ![](https://github.com/SGreloni/Portafolio/blob/gh-pages/Proyectos%20(img)/Mapa%20airbnb.png)
@@ -44,6 +44,22 @@ Herramientas utilizadas:
 * Geopy (servicios de geocodificación)
 * Heroku (despliegue en la nube)
 * Git (control de versiones)
+
+# [Proyecto 2: SegArt](https://peaceful-beyond-41898.herokuapp.com/)
+
+Utilicé una aplicación no convencional del algoritmo de aprendizaje no supervisado *KMeans* como segmentador de imagen, aprovechando para explicar didácticamente como funciona y permitiendo al lector jugar con el hiperparámetro K (la cantidad de *clusters* que busca el algoritmo). Adicionalmente agregué la opción de poder modificar los colores de cada segmento o cluster con el objetivo de crear composiciones artísticas fácilmente. Para más información acerca del proceso de creación visitar el [repositorio en Github](https://github.com/SGreloni/segart) y el [Jupyter Notebook](https://github.com/SGreloni/segart/blob/master/SegArt.ipynb).
+
+Herramientas utilizadas:
+* Numpy (soporte de vectores, matrices y funciones matemáticas)
+* Matplotlib (Visualización de datos -2D, 3D y animaciones-)
+* KMeans -Sklearn- (*Machine Learnong*: Clusterización)
+* Markdown (legiblididad y publicación de textos digitales)
+* PIL (soporte de manipulación de imágenes)
+* Streamlit (generación de aplicaciónes Web)
+* Heroku (despliegue en la nube)
+* Git (control de versiones)
+
+![](https://github.com/SGreloni/Portafolio/blob/gh-pages/Proyectos%20(img)/rotation.gif)
 
 ## Contacto
 
