@@ -22,7 +22,7 @@ Promedio 8,22
 
 ## Proyectos
 
-### [Proyecto 1:  Análisis y predicción de precios en Airbnb](https://github.com/SGreloni/prediccion-precios-Airbnb/blob/master/Predictor%20de%20precios%20de%20Airbnb%20.ipynb)
+### [Proyecto 1.1:  Análisis y predicción de precios en Airbnb](https://github.com/SGreloni/prediccion-precios-Airbnb/blob/master/Predictor%20de%20precios%20de%20Airbnb%20.ipynb)
 
 Realicé un análisis sobre datos de 20000 propiedades listadas en Airbnb y entrené un modelo de regresión que predice el precio por noche al que debería estar ofrecida la propiedad según características como su capacidad, cantidad de baños, número de dormitorios, etcétera.
 
@@ -35,7 +35,7 @@ Herramientas utilizadas:
 
 ![Disposición de propiedades de Airbnb en CABA](Proyectos%20(img)/Mapa%20airbnb.png)
 
-### [Proyecto 1 Bis:  Aplicación Web para prediccion de precios de Airbnb](https://shielded-journey-46084.herokuapp.com/)
+### [Proyecto 1.2:  Aplicación Web para prediccion de precios de Airbnb](https://shielded-journey-46084.herokuapp.com/)
 
 Utilizando el modelo de inteligencia artifical entrenado en **Proyecto 1: Análisis y predicción de precios en Airbnb** construí una aplicación web con una interfaz estética e intuitiva para tasar la estadía por noche según el input obtenido del usuario.
 
