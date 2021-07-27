@@ -8,7 +8,7 @@ Soy un estudiante de la carrera de Actuario en Economía en la Universidad de Bu
 Promedio 8,67 *(15/33 materias)*
 
 
--**Colegio Nacional de Buenos Aires** *(03/2014 - 03/2018)*  
+-**Colegio Nacional de Buenos Aires** *(03/2014 - 11/2018)*  
 Promedio 8,22 
 
 
