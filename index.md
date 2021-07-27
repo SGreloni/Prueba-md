@@ -1,6 +1,6 @@
 ## Acerca de mí
 
-Soy un estudiante de la carrera de Actuario en Economía en la Universidad de Buenos Aires, con una gran curiosidad y un especial interés por la Ciencia de Datos, la estadística y la Inteligencia Artificial. Actualmente me encuentro en una pasantía como Gestor Express en el Banco BBVA. 
+Soy un estudiante de la carrera de Actuario en Economía en la Universidad de Buenos Aires, con una gran curiosidad y un especial interés por la Ciencia de Datos, la estadística y la Inteligencia Artificial. Actualmente me encuentro realizando una pasantía como Gestor Express en el Banco BBVA. 
 
 #### Educación
 
