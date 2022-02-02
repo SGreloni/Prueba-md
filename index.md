@@ -1,11 +1,11 @@
 ## Acerca de mí
 
-Soy un estudiante de la carrera de Actuario en Economía en la Universidad de Buenos Aires, con una gran curiosidad y un especial interés por la Ciencia de Datos, la estadística y la Inteligencia Artificial. Actualmente me encuentro realizando una pasantía como Gestor Express en el Banco BBVA. 
+Soy un estudiante de la carrera de Actuario en Economía en la Universidad de Buenos Aires, con una gran curiosidad y un especial interés por la Ciencia de Datos, la Estadística y la Inteligencia Artificial. 
 
 #### Educación
 
 -**Universidad de Buenos Aires** *(03/2019 - Actualidad)*   
-Promedio 8,67 *(15/33 materias)*
+Promedio 8,7 *(18/33 materias)*
 
 
 -**Colegio Nacional de Buenos Aires** *(03/2014 - 11/2018)*  
@@ -14,7 +14,7 @@ Promedio 8,22
 
 ## Curriculum Vitae
 
-[CV](https://drive.google.com/file/d/1LhNpk6ztOjSRbhnxV7J60UnQNa3x9YHd/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1et4YOYs3aJySvBQDTHJUBVC_vf2R_G4x/view?usp=sharing)
 
 
 ## Certificiaciones
@@ -52,7 +52,7 @@ Utilicé una aplicación no convencional del algoritmo de aprendizaje no supervi
 Herramientas utilizadas:
 * Numpy (soporte de vectores, matrices y funciones matemáticas)
 * Matplotlib (Visualización de datos -2D, 3D y animaciones-)
-* KMeans -Sklearn- (*Machine Learnong*: Clusterización)
+* KMeans -Sklearn- (*Machine Learning*: Clusterización)
 * Markdown (legiblididad y publicación de textos digitales)
 * PIL (soporte de manipulación de imágenes)
 * Streamlit (generación de aplicaciónes Web)
