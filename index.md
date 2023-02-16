@@ -35,7 +35,7 @@ Herramientas utilizadas:
 
 ![Disposición de propiedades de Airbnb en CABA](Proyectos%20(img)/Mapa%20airbnb.png)
 
-### [Proyecto 1.2:  Aplicación Web para prediccion de precios de Airbnb](https://shielded-journey-46084.herokuapp.com/)
+### [Proyecto 1.2:  Aplicación Web para prediccion de precios de Airbnb](https://sgreloni-prediccion-precios-airbnb-streamlit-7qdwlt.streamlit.app/)
 
 Utilizando el modelo de inteligencia artifical entrenado en **Proyecto 1: Análisis y predicción de precios en Airbnb** construí una aplicación web con una interfaz estética e intuitiva para tasar la estadía por noche según el input obtenido del usuario.
 
@@ -45,7 +45,7 @@ Herramientas utilizadas:
 * Heroku (despliegue en la nube)
 * Git (control de versiones)
 
-### [Proyecto 2: SegArt](https://peaceful-beyond-41898.herokuapp.com/)
+### [Proyecto 2: SegArt](https://sgreloni-segart-artapp-nvijob.streamlit.app/)
 
 Utilicé una aplicación no convencional del algoritmo de aprendizaje no supervisado *KMeans* como segmentador de imagen, aprovechando para explicar didácticamente como funciona y permitiendo al lector jugar con el hiperparámetro K (la cantidad de *clusters* que busca el algoritmo). Adicionalmente agregué la opción de poder modificar los colores de cada segmento o cluster con el objetivo de crear composiciones artísticas fácilmente. Para más información acerca del proceso de creación visitar el [repositorio en Github](https://github.com/SGreloni/segart) y el [Jupyter Notebook](https://github.com/SGreloni/segart/blob/master/SegArt.ipynb).
 
