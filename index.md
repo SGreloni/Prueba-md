@@ -72,6 +72,7 @@ Main tooñs:
 * Scikit-learn (DBSCAN, K-Means, Random Forest, t-SNE manifold learning)
 * Yellowbrick (Silhouette Diagram Analysis)
 
+![Embedding coloured by cluster](Proyectos%20(img)/t-SNE.png)
 
 ## Contacto
 
