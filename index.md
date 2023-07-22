@@ -65,6 +65,14 @@ Herramientas utilizadas:
 
 This project is my solution to a Challenge which was part of a Hiring Process. I was asked to analyze and cluster a small sample of the Sportify Dataset having into account not only classical metrics such as Inertia but also the intuition and meaning of each cluster. For this I made an Exploratory Data Analysis and tried both DBSCAN and K-Mean on the data. For choosing the definitive clusters I made a Silhouette Diagram Analysis, manual inspection of individual instances and a visualization of the data structure using t-SNE. Finally, to help me interpet the results I fitted a Random Forest Classifier to the clusters to find, with the feature importances, the most important variables in differentiating each group.
 
+Main tooñs:
+* PAndas
+* Matplotlib
+* Seaborn
+* Scikit-learn (DBSCAN, K-Means, Random Forest, t-SNE manifold learning)
+* Yellowbrick (Silhouette Diagram Analysis)
+
+
 ## Contacto
 
 E-mail: Santiagogreloni@gmail.com
