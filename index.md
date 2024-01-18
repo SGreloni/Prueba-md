@@ -76,8 +76,10 @@ Main tools:
 
 ### [Economics of Financial Markets Final Project](https://github.com/SGreloni/Finance-Portfolio-Optimization-/blob/main/Suliansky%20and%20Greloni%20(Q1).pdf)
 
-This is the final project we wrote with [Gaspar Suliansky](https://ar.linkedin.com/in/gaspar-suliansky-b1420320a) for the Economics of Financial Markets course (part of the Quantitattive Finace Masters Degree). during our exchange program to the University of Boologna, getting a grade of 30/30 Cum Laude.
+This is the final project we wrote with [Gaspar Suliansky](https://ar.linkedin.com/in/gaspar-suliansky-b1420320a) for the Economics of Financial Markets course (part of the Quantitattive Finace Masters Degree) during our exchange program to the University of Bologna, getting a grade of 30/30 Cum Laude.
 We studied daily and monthly returns for different Italian assets, and provided different alocation strategies, such as mean-variance Markowitz optimizatioin and Bayesian methods, including the Black Litterman model and Jorion Shrinkage Estimator. We calculated each of these portfolios and evaluated their performance based on different statistics [using Python](https://github.com/SGreloni/Finance-Portfolio-Optimization-/blob/main/Code-Daily.ipynb)
+
+![Efficient Frontier](https://github.com/SGreloni/Portafolio/blob/gh-pages/Proyectos%20(img)/MVP.png)
 
 
 
