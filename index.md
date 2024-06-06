@@ -24,7 +24,7 @@ Promedio 8,22
 
 ### [Proyecto 1.1:  Análisis y predicción de precios en Airbnb](https://github.com/SGreloni/prediccion-precios-Airbnb/blob/master/Predictor%20de%20precios%20de%20Airbnb%20.ipynb)
 
-Realicé un análisis sobre datos de 20000 propiedades listadas en Airbnb y entrené un modelo de regresión que predice el precio por noche al que debería estar ofrecida la propiedad según características como su capacidad, cantidad de baños, número de dormitorios, etcétera.
+Realicé un análisis sobre datos de 20000 propiedades listadas en Airbnb y entrené un modelo de regresión que predice el precio por noche al que debería estar ofrecida la propiedad (en pesos a diciembre de 2020) según características como su capacidad, cantidad de baños, número de dormitorios, etcétera.
 
 Herramientas utilizadas:
 * Pandas (limpieza de datos)
@@ -37,7 +37,7 @@ Herramientas utilizadas:
 
 ### [Proyecto 1.2:  Aplicación Web para prediccion de precios de Airbnb](https://sgreloni-prediccion-precios-airbnb-streamlit-7qdwlt.streamlit.app/)
 
-Utilizando el modelo de inteligencia artifical entrenado en **Proyecto 1: Análisis y predicción de precios en Airbnb** construí una aplicación web con una interfaz estética e intuitiva para tasar la estadía por noche según el input obtenido del usuario.
+Utilizando el modelo de inteligencia artifical entrenado en **Proyecto 1: Análisis y predicción de precios en Airbnb** construí una aplicación web con una interfaz estética e intuitiva para tasar la estadía por noche (en pesos a diciembre de 2020) según el input obtenido del usuario.
 
 Herramientas utilizadas:
 * Streamlit (generación de aplicaciónes Web)
